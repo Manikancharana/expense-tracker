@@ -1,0 +1,35 @@
+#header{
+  display: flex;
+  justify-content: center;
+  color: rgb(124, 104, 74);
+ }
+
+#balance{
+  margin-top: 2px;
+
+}
+#balance1{
+  margin-bottom: 2px;
+}
+body{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  background-color: rgb(206, 206, 197);
+}
+.inc-exp{
+background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+#credit{
+  background-color: white;
+  margin-right: 10px;
+}
+#expenses{
+  background-color: white;
+  margin-left: 2px;
+}
