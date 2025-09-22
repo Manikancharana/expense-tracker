@@ -3,8 +3,7 @@ import React from 'react'
 const IncomeExpenses = () => {
   return (
     <div className="inc-exp">
-        <div>
-            
+        <div>    
                 <h4>INCOME</h4>
            <p id="credit"> +$0.00</p>
         </div>

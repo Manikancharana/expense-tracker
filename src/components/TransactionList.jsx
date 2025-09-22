@@ -4,7 +4,7 @@ const TransactionList = () => {
   return (
     <>
     <h3>History</h3>
-    <ul id="list" class="list">
+    <ul id="list" className="list">
       <li class="minus">Cash <span>-$400</span><button class="delete">x</button>
       </li>
     </ul>
